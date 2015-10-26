@@ -1,0 +1,118 @@
+Feb 15, 2014 8:06:14 PM com.server.GameServer createLog
+INFO: Player Creation Request with username: chintan
+Feb 15, 2014 8:06:14 PM com.server.GameServer createLog
+INFO: Status: Account Created with username: chintan
+Feb 15, 2014 8:06:47 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 15, 2014 8:09:26 PM com.server.GameServer createLog
+INFO: Player Creation Request with username: chintan
+Feb 15, 2014 8:09:26 PM com.server.GameServer createLog
+INFO: Status: Account Created with username: chintan
+Feb 15, 2014 8:10:04 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 11:54:14 AM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 11:54:14 AM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 16, 2014 11:55:20 AM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 11:55:20 AM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 16, 2014 11:57:33 AM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 11:57:33 AM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 16, 2014 12:03:03 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 12:03:03 PM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 16, 2014 12:04:23 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 12:04:23 PM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 16, 2014 12:06:41 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 12:06:41 PM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 16, 2014 12:09:26 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 12:09:26 PM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 16, 2014 12:16:50 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 12:18:50 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 12:22:11 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 12:22:11 PM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 16, 2014 12:23:31 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 12:27:39 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 12:28:04 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 12:33:12 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 12:33:12 PM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 16, 2014 12:34:52 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 12:34:52 PM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 16, 2014 12:36:02 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 12:36:02 PM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 16, 2014 12:37:14 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 12:37:14 PM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 16, 2014 12:38:13 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 12:38:13 PM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 16, 2014 12:39:01 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 12:39:01 PM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 16, 2014 12:39:16 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 12:39:16 PM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 16, 2014 12:39:40 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 12:39:40 PM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 16, 2014 12:40:40 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 12:42:24 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 2:15:34 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 16, 2014 2:26:05 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 18, 2014 2:46:45 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 18, 2014 2:46:45 PM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 18, 2014 2:47:55 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 18, 2014 2:47:55 PM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 18, 2014 2:49:31 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 18, 2014 2:49:31 PM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 18, 2014 2:50:25 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 18, 2014 2:50:25 PM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 19, 2014 2:24:56 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 19, 2014 2:24:57 PM com.server.GameServer createLog
+INFO: From : NA region, result:
+Feb 28, 2014 2:58:49 PM com.server.GameServer createLog
+INFO: Player status requested from: NA
+Feb 28, 2014 2:58:49 PM com.server.GameServer createLog
+INFO: From : NA region, result:
